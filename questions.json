@@ -1,0 +1,290 @@
+{
+  "heading": "Expanded and Standard Form",
+  "topics": [
+    {
+      "heading": "Expanded and Standard Form",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Alex saw a number 500 + 80 + 3. What does this number look like in standard form?",
+          "options": [
+            { "text": "580" },
+            { "text": "503" },
+            { "text": "538" },
+            { "text": "583" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 2,
+          "question": "A box of apples showed 7,000 + 300 + 50 + 4 on the weighing scale. What’s the standard form of this number?",
+          "options": [
+            { "text": "7,364" },
+            { "text": "7,340" },
+            { "text": "7,354" },
+            { "text": "7,344" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "He saw another number 17,000 + 400 + 20 + 3. Can you figure out the standard form of this number?",
+          "options": [
+            { "text": "17,423" },
+            { "text": "17,413" },
+            { "text": "17,432" },
+            { "text": "17,420" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "Alex noticed a crate of bananas labeled 4,000,000 + 600,000 + 50,000 + 2,000 + 900 + 40 + 8. What’s the standard form of this number?",
+          "options": [
+            { "text": "4,652,894" },
+            { "text": "4,652,984" },
+            { "text": "4,652,948" },
+            { "text": "4,625,948" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "The weight of mixed berries was 2,000,000 + 500,000 + 40,000 + 3,000 + 800 + 60 + 5 grams. Mr. George asked Alex, \"What’s the standard form of this number?\"",
+          "options": [
+            { "text": "2,534,865" },
+            { "text": "2,543,865" },
+            { "text": "2,543,856" },
+            { "text": "2,534,856" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "Alex picked up a bag of cherries that weighed 526. What’s the expanded form of this number?",
+          "options": [
+            { "text": "500 + 30 + 6" },
+            { "text": "500 + 50 + 6" },
+            { "text": "500 + 20 + 6" },
+            { "text": "500 + 200 + 6" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 7,
+          "question": "The weight of a basket of pineapples was 2,381 on a label. How would we write this number in expanded form?",
+          "options": [
+            { "text": "2,000 + 3,000 + 80 + 1" },
+            { "text": "2,000 + 300 + 80 + 1" },
+            { "text": "2,000 + 300 + 8 + 1" },
+            { "text": "2,000 + 30 + 800 + 1" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "A crate of grapes was labeled 5,673. What is the expanded form of this number?",
+          "options": [
+            { "text": "5,000 + 700 + 60 + 3" },
+            { "text": "5,000 + 600 + 700 + 3" },
+            { "text": "5,000 + 60 + 700 + 3" },
+            { "text": "5,000 + 600 + 70 + 3" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 9,
+          "question": "The grand weight of all fruits combined was 3,245,761. What’s the expanded form of this number?",
+          "options": [
+            { "text": "3,000,000 + 200,000 + 40,000 + 5,000 + 700 + 60 + 1" },
+            { "text": "3,000,000 + 20,000 + 4,000 + 500 + 700 + 60 + 1" },
+            { "text": "3,000,000 + 200,000 + 4,000 + 5,000 + 700 + 60 + 1" },
+            { "text": "3,000,000 + 240,000 + 5,000 + 700 + 600 + 10" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 10,
+          "question": "Finally, Alex saw the total weight 784,236. What is the expanded form of this number?",
+          "options": [
+            { "text": "700,000 + 80,000 + 4,000 + 200 + 30 + 6" },
+            { "text": "700,000 + 8,000 + 400 + 200 + 30 + 6" },
+            { "text": "700,000 + 8,000 + 4,000 + 200 + 30 + 6" },
+            { "text": "700,000 + 8,000 + 400 + 20 + 3 + 6" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "One crate weighed <br>592 = 500 + ____ + 2. What goes in the blank?",
+          "options": [
+            { "text": "9" },
+            { "text": "900" },
+            { "text": "90" },
+            { "text": "19" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "The next weight reads <br>7,386 = 7,000 + ____ + 80 + 6. What number fits in the blank?",
+          "options": [
+            { "text": "30" },
+            { "text": "300" },
+            { "text": "3,000" },
+            { "text": "3" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "A big box of treats weighed <br>46,829 = 40,000 + 6,000 + ____ + 20 + 9. What should be put in the blank?",
+          "options": [
+            { "text": "8,000" },
+            { "text": "80" },
+            { "text": "8" },
+            { "text": "800" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "question": "A large box said <br>3,126,084 = 3,000,000 + 100,000 + 20,000 + ____ + 0 + 80 + 4. Can you fill in the blank?",
+          "options": [
+            { "text": "60,000" },
+            { "text": "600" },
+            { "text": "6,000" },
+            { "text": "60" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "The final number read <br>5,406,321 = ____ + 400,000 + 0 + 6,000 + 300 + 20 + 1. What goes in the blank?",
+          "options": [
+            { "text": "500,000" },
+            { "text": "5,000,000" },
+            { "text": "50,000" },
+            { "text": "5,000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "Mia looked at another label and saw the number 120001. Can you help them identify this number properly with commas?",
+          "options": [
+            { "text": "1,20,001" },
+            { "text": "12,000,1" },
+            { "text": "12,00,01" },
+            { "text": "120,001" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 18,
+          "question": "They noticed the number 7689534. How should commas be placed in the number 7689534?",
+          "options": [
+            { "text": "76,89,534" },
+            { "text": "768,953,4" },
+            { "text": "7,689,534" },
+            { "text": "7,689,53,4" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "Sophie read the label and saw 45879213. How should commas be placed in this number?",
+          "options": [
+            { "text": "4,58,79,213" },
+            { "text": "458,792,13" },
+            { "text": "4,587,9213" },
+            { "text": "45,879,213" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 20,
+          "question": "Alex showed his friends a treat with 7654321 on it. How should we write this number with commas according to the International Place Value System?",
+          "options": [
+            { "text": "76,54,321" },
+            { "text": "7,654,321" },
+            { "text": "7654,321" },
+            { "text": "7,65,432,1" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "Alex saw a number 56421 on the scale. Where should the commas be placed in this number according to the International Place Value System?",
+          "options": [
+            { "text": "5,6421" },
+            { "text": "56,421" },
+            { "text": "564,21" },
+            { "text": "5,64,21" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 21,
+          "question": "Mia glanced at a different treat with the number 6,178. What is the place value of the digit 6 in this number?",
+          "options": [
+            { "text": "600" },
+            { "text": "60" },
+            { "text": "6,000" },
+            { "text": "6" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 22,
+          "question": "Liam noticed the number 47,831 on a label. Can you tell me the place value of the digit 8 in this number?",
+          "options": [
+            { "text": "8" },
+            { "text": "800" },
+            { "text": "80" },
+            { "text": "80,000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 23,
+          "question": "Sophie looked at the label and saw 612,735. What is the place value of the digit 2 in this number?",
+          "options": [
+            { "text": "20,000" },
+            { "text": "200" },
+            { "text": "2,000" },
+            { "text": "20" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "Alex found a treat with the number 7,564,132 on it. What is the place value of the digit 5 in this number?",
+          "options": [
+            { "text": "500" },
+            { "text": "500,000" },
+            { "text": "50,000" },
+            { "text": "5,000,000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 25,
+          "question": "Liam noticed the number 2,157,694 on one of the labels. What's the place value of the digit 7?",
+          "options": [
+            { "text": "700,000" },
+            { "text": "70,000" },
+            { "text": "7,000,000" },
+            { "text": "7,000" }
+          ],
+          "answer": 3
+        }
+      ]
+      
+      
+      
+      
+      
+    }
+  ]
+}
